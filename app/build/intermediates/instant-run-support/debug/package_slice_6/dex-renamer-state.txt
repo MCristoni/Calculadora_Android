@@ -1,4 +1,4 @@
-#Sun Mar 04 22:13:36 BRT 2018
-base.0=E\:\\GitHub\\Calculadora\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+#Mon Mar 05 00:08:25 BRT 2018
+base.0=E\:\\GitHub\\Calculadora_Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\GitHub\\Calculadora\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\GitHub\\Calculadora_Android\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c00ecabccefdce58485b781f2e12f321\\res\\values-v21\\values-v21.xml",

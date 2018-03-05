@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\GitHub\\Calculadora\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "E:\\GitHub\\Calculadora_Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\mathe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c58506e4163232e493d34a6340d6f58e\\res\\values-mn\\values-mn.xml",
